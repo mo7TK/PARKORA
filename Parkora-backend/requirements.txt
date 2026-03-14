@@ -1,0 +1,8 @@
+# Detection
+ultralytics
+opencv-python
+requests
+
+# Backend
+fastapi
+uvicorn[standard]
