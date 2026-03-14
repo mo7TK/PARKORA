@@ -48,3 +48,9 @@ htmlcov/
 .pytest_cache/
 
 *.mp4
+
+# AI models
+*.pt
+*.onnx
+*.weights
+*.engine
