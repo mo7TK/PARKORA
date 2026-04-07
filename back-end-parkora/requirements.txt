@@ -1,8 +1,5 @@
-# Detection
-ultralytics
 opencv-python
+ultralytics
 requests
-
-# Backend
 fastapi
 uvicorn[standard]

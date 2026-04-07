@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Parkora-mobile-app",
-    "slug": "Parkora-mobile-app",
+    "name": "parkora-app",
+    "slug": "parkora-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "parkoramobileapp",
+    "scheme": "parkoraapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
